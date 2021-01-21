@@ -1,0 +1,5 @@
+# Project controller
+controller/
+
+# Dependencies
+node_modules/
