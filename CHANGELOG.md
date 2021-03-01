@@ -14,10 +14,36 @@ All notable changes to the "retro-vibes" extension will be documented in this fi
 
 ### Changed
 
-- Many previously default colours
+- Many previously default colors
 
 - Shadows and ruler are now consistent
 
 - Better terminal coloring
 
 - Other small fixes to general look and feel
+
+## [1.0.0] - 01.03.2021
+
+### Major update
+
+- New line selection background color
+
+- Improve visibility and contrast colors
+
+- Add git decorations
+
+- Add new terminal colors
+
+- Improve colors to reduce eye strain
+
+- Add information on how to turn on/off common vscode features
+
+- Add tweak it section
+
+- Add contributions section
+
+- Add screenshots
+
+- Improve the overall look and feel and many other bits
+
+- Old version of the theme can be found [here](https://marketplace.visualstudio.com/items?itemName=Babadzhanov.retro-vibes-old)

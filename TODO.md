@@ -1,27 +1,27 @@
 # TO DO section
 
-- ~~change custom components coloring to differ from html tags~~
+- ~~Change custom components coloring to differ from html tags~~
 
-- ~~change variable colors to differ from strings~~
+- ~~Change variable colors to differ from strings~~
 
-- ~~add a way of installing extension with terminal~~
+- ~~Add a way of installing extension with terminal~~
 
-- change line selection background color (mb the same as side menu)
+- ~~Change line selection background color (mb the same as side menu)~~
 
-- add more information to profile and clean descriptions
+- ~~Add more information to profile and clean descriptions~~
 
-- improve visibility and contrast colours
+- ~~Improve visibility and contrast colors~~
 
-- add git decorations
+- ~~Add git decorations~~
 
-- improve terminal colouring
+- ~~Improve terminal colouring~~
 
-- refactor project structure
+- ~~Refactor project structure~~
 
-- Improve colors to reduce eye strain
+- ~~Improve colors to reduce eye strain~~
 
-- add info on how to turn on/off common vscode features
+- ~~Add info on how to turn on/off common vscode features~~
 
-- add screenshots to repo
+- ~~Add screenshots to repo~~
 
--
+- To be continued...
