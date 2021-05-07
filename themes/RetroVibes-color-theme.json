@@ -42,9 +42,9 @@
 		"inputValidation.warningForeground": "#C4CCE4", // Input validation foreground color for warning severity.
 		"inputValidation.warningBorder": "#E9C900", // Input validation border color for warning severity.
 		"scrollbar.shadow": "#0059ff40", // Scrollbar slider shadow to indicate that the view is scrolled.
-		"scrollbarSlider.activeBackground": "#39475f90", // Scrollbar slider background color when clicked on.
-		"scrollbarSlider.background": "#242c3e90", // Scrollbar slider background color.
-		"scrollbarSlider.hoverBackground": "#29334490", // Scrollbar slider background color when hovering.
+		"scrollbarSlider.activeBackground": "#39475fd0", // Scrollbar slider background color when clicked on.
+		"scrollbarSlider.background": "#293344b0", // Scrollbar slider background color.
+		"scrollbarSlider.hoverBackground": "#39475fa0", // Scrollbar slider background color when hovering.
 		"badge.foreground": "#1A202D", // Badge foreground color.
 		"badge.background": "#E9A929", // Badge background color.
 		"progressBar.background": "#E9A929", // Background color of the progress bar shown for long running operations.
@@ -512,6 +512,7 @@
 				"keyword.operator.arithmetic",
 				"keyword.operator.ternary",
 				"keyword.operator.expression.typeof",
+				"keyword.operator.relational",
 				"constant.language.import-export-all",
 				"punctuation.accessor.optional"
 			],
