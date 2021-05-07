@@ -47,3 +47,11 @@ All notable changes to the "retro-vibes" extension will be documented in this fi
 - Improve the overall look and feel and many other bits
 
 - Old version of the theme can be found [here](https://marketplace.visualstudio.com/items?itemName=Babadzhanov.retro-vibes-old)
+
+## [1.0.1] - 03.05.2021
+
+### Minor update
+
+- Make scrollbar overview more visible
+
+- Add missing color for greater/less than operators

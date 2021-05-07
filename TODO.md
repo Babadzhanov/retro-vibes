@@ -24,4 +24,6 @@
 
 - ~~Add screenshots to repo~~
 
+- ~~Make scrollbar overview more visible~~
+
 - To be continued...
