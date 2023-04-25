@@ -26,4 +26,4 @@
 
 - ~~Make scrollbar overview more visible~~
 
-- To be continued...
+- Fix selected text in source control field be opacity 0.3
