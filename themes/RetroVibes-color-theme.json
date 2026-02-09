@@ -6,7 +6,7 @@
 		"focusBorder": "#505868", // Overall border color for focused elements. This color is only used if not overridden by a component.
 		"foreground": "#6C7999", // Overall foreground color. This color is only used if not overridden by a component.
 		"widget.shadow": "#0059ff20", // Shadow color of widgets such as Find/Replace inside the editor.
-		"selection.background": "#C4CCE4", // Background color of text selections in the workbench (for input fields or text areas, does not apply to selections within the editor and the terminal).
+		"selection.background": "#39475f", // Background color of text selections in the workbench (for input fields or text areas, does not apply to selections within the editor and the terminal).
 		"descriptionForeground": "#505868", // Foreground color for description text providing additional information, for example for a label.
 		"errorForeground": "#aa0f36", // Overall foreground color for error messages (this color is only used if not overridden by a component).
 		"icon.foreground": "#C4CCE4", // The default color for icons in the workbench.
@@ -82,7 +82,7 @@
 		"sideBarTitle.foreground": "#6C7999", // Side Bar title foreground color.
 		"sideBarSectionHeader.background": "#1A202D", // Side Bar section header background color.
 		"sideBarSectionHeader.foreground": "#6C7999", // Side Bar section header foreground color.
-		"minimap.findMatchHighlight": "#694C12", // Highlight color for matches from search within files.
+		"minimap.findMatchHighlight": "#694c12f0", // Highlight color for matches from search within files.
 		"minimap.selectionHighlight": "#50586880", // Highlight color for the editor selection.
 		"minimapGutter.deletedBackground": "#B1B1B1", // Minimap gutter color for deleted content.
 		"editorGroup.border": "#242C3E", // Color to separate multiple editor groups from each other.
@@ -122,28 +122,28 @@
 		"editorLineNumber.activeForeground": "#6883B0", // Color of the active editor line number.
 		"editorCursor.foreground": "#00ff00", // Color of the editor cursor.
 		"editor.selectionBackground": "#39475f", // Color of the editor selection.
-		"editor.inactiveSelectionBackground": "#293344", // Color of the selection in an inactive editor. The color must not be opaque so as not to hide underlying decorations.
-		"editor.selectionHighlightBackground": "#505868", // Color for regions with the same content as the selection. The color must not be opaque so as not to hide underlying decorations.
+		"editor.inactiveSelectionBackground": "#293344f0", // Color of the selection in an inactive editor. The color must not be opaque so as not to hide underlying decorations.
+		"editor.selectionHighlightBackground": "#505868f0", // Color for regions with the same content as the selection. The color must not be opaque so as not to hide underlying decorations.
 		"editor.selectionHighlightBorder": "#E9A929b7", // Border color for regions with the same content as the selection.
 		"editor.wordHighlightBackground": "#6c799966", // Background color of a symbol during readaccess, for example when reading a variable. The color must not be opaque so as not to hide underlying decorations.
 		"editor.wordHighlightStrongBackground": "#e9a92966", // Background color of a symbol during writeaccess, for example when writing to a variable. The color must not be opaque so as not to hide underlying decorations.
 		"editor.findMatchBackground": "#e9a92945", // Color of the current search match.
 		"editor.findMatchHighlightBackground": "#e9a92915", // Color of the other search matches. The color must not be opaque so as not to hide underlying decorations.
-		"editor.findRangeHighlightBackground": "#302200", // Color the range limiting the search (Enable 'Find in Selection' in the find widget). The color must not be opaque so as not to hide underlying decorations.
+		"editor.findRangeHighlightBackground": "#302200f0", // Color the range limiting the search (Enable 'Find in Selection' in the find widget). The color must not be opaque so as not to hide underlying decorations.
 		"editor.findMatchBorder": "#E9A929", // Border color of the current search match.
 		"editor.findMatchHighlightBorder": "#694C12", // Border color of the other search matches.
 		"editor.findRangeHighlightBorder": "#E9A92900", // Border color the range limiting the search (Enable 'Find in Selection' in the find widget).
 		"searchEditor.findMatchBackground": "#f8780045", // Color of the editor's results.
 		"searchEditor.findMatchBorder": "#f87800", // Border color of the editor's results.
 		"searchEditor.textInputBorder": "#f8780090", // Search editor text input box border.
-		"editor.hoverHighlightBackground": "#505868", // Highlight below the word for which a hover is shown. The color must not be opaque so as not to hide underlying decorations.
+		"editor.hoverHighlightBackground": "#505868f0", // Highlight below the word for which a hover is shown. The color must not be opaque so as not to hide underlying decorations.
 		"editor.lineHighlightBackground": "#141820", // Background color for the highlight of line at the cursor position.
 		"editorLink.activeForeground": "#E9A929", // Color of active links.
-		"editor.rangeHighlightBackground": "#141820", // Background color of highlighted ranges, used by Quick Open, Symbol in File and Find features. The color must not be opaque so as not to hide underlying decorations.
+		"editor.rangeHighlightBackground": "#141820f0", // Background color of highlighted ranges, used by Quick Open, Symbol in File and Find features. The color must not be opaque so as not to hide underlying decorations.
 		"editor.symbolHighlightBorder": "#E9A929", // Background color of the border around highlighted symbols.
 		"editorWhitespace.foreground": "#39475F", // Color of whitespace characters in the editor.
-		"editorIndentGuide.background": "#0059ff40", // Color of the editor indentation guides.
-		"editorIndentGuide.activeBackground": "#0088ff", // Color of the active editor indentation guide.
+		"editorIndentGuide.background1": "#0059ff40", // Color of the editor indentation guides.
+		"editorIndentGuide.activeBackground1": "#0088ff", // Color of the active editor indentation guide.
 		"editorRuler.foreground": "#0059ff25", // Color of the editor rulers.
 		"editorCodeLens.foreground": "#41506C", // Foreground color of an editor CodeLens.
 		"editorLightBulb.foreground": "#E9A929", // The color used for the lightbulb actions icon.
@@ -209,7 +209,6 @@
 		"panelTitle.inactiveForeground": "#6C7999", // Title color for the inactive panel.
 		"panelSectionHeader.background": "#181E2B", // Panel section header background color. Panels are shown below the editor area and contain views like output and integrated terminal.
 		"panelSectionHeader.foreground": "#6C7999", // Panel section header foreground color. Panels are shown below the editor area and contain views like output and integrated terminal.
-		"imagePreview.border": "#242c3e", // Border color for image in image preview.
 		"statusBar.background": "#1A202D", // Standard Status Bar background color.
 		"statusBar.foreground": "#6C7999", // Status Bar foreground color.
 		"statusBar.border": "#1A202D", // Status Bar border color separating the Status Bar and editor.
@@ -266,8 +265,6 @@
 		"terminalCursor.foreground": "#00ff00", // The foreground color of the terminal cursor.
 		"debugToolBar.background": "#212530", // Debug toolbar background color.
 		"debugView.stateLabelBackground": "#141820", // Background color for a label in the CALL STACK view showing the current session's or thread's state
-		"welcomePage.buttonBackground": "#141820", // Background color for the buttons on the Welcome page.
-		"welcomePage.buttonHoverBackground": "#242c3e", // Hover background color for the buttons on the Welcome page.
 		"walkThrough.embeddedEditorBackground": "#212530", // Background color for the embedded editors on the Interactive Playground.
 		"gitDecoration.addedResourceForeground": "#0E820E", // Color for added Git resources. Used for file labels and the SCM viewlet.
 		"gitDecoration.modifiedResourceForeground": "#35A0E8", // Color for modified Git resources. Used for file labels and the SCM viewlet.
@@ -286,7 +283,6 @@
 		"editor.snippetTabstopHighlightBackground": "#39475f", // Highlight background color of a snippet tabstop.
 		"editor.snippetFinalTabstopHighlightBackground": "#6c7999", // Highlight background color of the final tabstop of a snippet.
 		"editor.snippetFinalTabstopHighlightBorder": "#6c7999", // Highlight border color of the final tabstop of a snippet.
-		"inlineparameters.annotationForeground": "#C4CCE4",
 	},
 	// Syntax Highlighting
 	"tokenColors": [
@@ -510,6 +506,7 @@
 				"keyword.operator.logical",
 				"keyword.operator.comparison",
 				"keyword.operator.arithmetic",
+				"keyword.operator.increment",
 				"keyword.operator.ternary",
 				"keyword.operator.expression.typeof",
 				"keyword.operator.relational",
