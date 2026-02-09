@@ -2,6 +2,14 @@
 
 All notable changes to the "retro-vibes" extension will be documented in this file.
 
+## [1.0.2] - 2026-02-09
+
+### Fixed
+
+- Fixed color of text selections in the workbench
+- Added highlighting for increment operators (++) in bright yellow
+- Removed invalid theme color properties for better compatibility
+
 ## [0.1.0] - 21.01.2021
 
 ### Added
@@ -46,7 +54,7 @@ All notable changes to the "retro-vibes" extension will be documented in this fi
 
 - Improve the overall look and feel and many other bits
 
-- Old version of the theme can be found [here](https://marketplace.visualstudio.com/items?itemName=Babadzhanov.retro-vibes-old)
+- Old version of the theme can be found [in the Retro Vibes (Old) extension](https://marketplace.visualstudio.com/items?itemName=Babadzhanov.retro-vibes-old)
 
 ## [1.0.1] - 03.05.2021
 
