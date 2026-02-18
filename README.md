@@ -1,4 +1,4 @@
-# Retro Vibes Theme [![Version](https://vsmarketplacebadge.apphb.com/version/babadzhanov.retro-vibes.svg)](https://marketplace.visualstudio.com/items?itemName=Babadzhanov.retro-vibes)
+# Retro Vibes Theme [![Version](https://img.shields.io/visual-studio-marketplace/v/babadzhanov.retro-vibes)](https://marketplace.visualstudio.com/items?itemName=Babadzhanov.retro-vibes)
 
 ![RetroVibes](https://raw.githubusercontent.com/babadzhanov/retro-vibes/master/assets/retro-vibes.png)
 
