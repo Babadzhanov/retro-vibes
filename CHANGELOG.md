@@ -2,6 +2,12 @@
 
 All notable changes to the "retro-vibes" extension will be documented in this file.
 
+## [1.0.3] - 2026-02-18
+
+### Fixed
+
+- Replaced unsupported SVG badge in README with shields.io badge for marketplace compatibility
+
 ## [1.0.2] - 2026-02-09
 
 ### Fixed
